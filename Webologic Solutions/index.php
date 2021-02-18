@@ -46,50 +46,33 @@
     <div class="mu-slider-single">
       <div class="mu-slider-img">
         <figure>
-          <img src="assets/img/slider/1.jpg" alt="img">
-        </figure>
-      </div>
-      <div class="mu-slider-content">
-        <h4>Welcome To Varsity</h4>
-        <span></span>
-        <h2>We Will Help You To Learn</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p>
-        <a href="#" class="mu-read-more-btn">Read More</a>
-      </div>
-    </div>
-    <!-- Start single slider item -->
-    <!-- Start single slider item -->
-    <div class="mu-slider-single">
-      <div class="mu-slider-img">
-        <figure>
           <img src="assets/img/slider/2.jpg" alt="img">
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Premiumu Quality Free Template</h4>
+        <h4>Welcome To Webologic EDU</h4>
         <span></span>
-        <h2>Best Education Template Ever</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p>
+        <h2>We Will Help You To Learn</h2>
+        <p></p>
         <a href="#" class="mu-read-more-btn">Read More</a>
       </div>
     </div>
-    <!-- Start single slider item -->
     <!-- Start single slider item -->
     <div class="mu-slider-single">
       <div class="mu-slider-img">
         <figure>
-          <img src="assets/img/slider/3.jpg" alt="img">
+          <img src="assets/img/slider/1.jpg" alt="img">
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Exclusivly For Education</h4>
+        <h4>For B.Tech Computer Engineering Students</h4>
         <span></span>
-        <h2>Education For Everyone</h2>
+        <h2>You will find all basic courses here</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p>
         <a href="#" class="mu-read-more-btn">Read More</a>
       </div>
     </div>
-    <!-- Start single slider item -->    
+       
   </section>
   <!-- End Slider -->
   <!-- Start service  -->
@@ -102,21 +85,21 @@
             <div class="mu-service-single">
               <span class="fa fa-book"></span>
               <h3>Learn Online</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>Learn anywhere, anytime easily! Access to the Webologic EDU site and learn courses online.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-users"></span>
               <h3>Expert Teachers</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>All the courses available here, are designed by expert professors of RK University.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-table"></span>
               <h3>Best Classrooms</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>You can found different courses with scheduled time for all subjects.</p>
             </div>
             <!-- Start single service -->
           </div>
@@ -125,47 +108,44 @@
     </div>
   </section>
   <!-- End service  -->
-
-  <!-- Start about us -->
   <section id="mu-about-us">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="mu-about-us-area">           
-            <div class="row">
-              <div class="col-lg-6 col-md-6">
-                <div class="mu-about-us-left">
-                  <!-- Start Title -->
-                  <div class="mu-title">
-                    <h2>About Us</h2>              
-                  </div>
-                  <!-- End Title -->
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum pariatur fuga eveniet soluta aspernatur rem, nam voluptatibus voluptate voluptates sapiente, inventore. Voluptatem, maiores esse molestiae.</p>
-                  <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                    <li>Saepe a minima quod iste libero rerum dicta!</li>
-                    <li>Voluptas obcaecati, iste porro fugit soluta consequuntur. Veritatis?</li>
-                    <li>Ipsam deserunt numquam ad error rem unde, omnis.</li>
-                    <li>Repellat assumenda adipisci pariatur ipsam eos similique, explicabo.</li>
-                  </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quaerat harum facilis excepturi et? Mollitia!</p>
+        <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+            <div class="mu-about-us-area">           
+                <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <div class="mu-about-us-left">
+                    <!-- Start Title -->
+                    <div class="mu-title">
+                        <h2>About Us</h2>              
+                    </div>
+                    <!-- End Title -->
+                    <p>A learning system based on formalised teaching but with the help of electronic resources is known as E-learning. While teaching can be based in or out of the classrooms, the use of computers and the Internet forms the major component of E-learning.</p>
+                    <ul>
+                        <li>E-learning has been introduced to empower learners to get basic schooling and enhance skills. Also, they can obtain a degree certificate, without actually attending school or university or any other institution.</li>
+                        <li>For tutors, it is a great source of earning, wherein they can teach from anywhere in their preferred time.</li>
+                        <li>Applying e-learning to all levels of schooling helped to ensure students grasp the lessons adequately at a faster pace.</li>
+                        <li>One of the importance of e-learning in education is that tutors and participants both can develop advanced learning skills. For example, creating and selling ebooks is one such advancement.</li>
+                        
+                    </ul>
+                    
+                    </div>
                 </div>
-              </div>
-              <div class="col-lg-6 col-md-6">
-                <div class="mu-about-us-right">                            
-                <a id="mu-abtus-video" href="https://www.youtube.com/embed/HN3pm9qYAUs" target="mutube-video">
-                  <img src="assets/img/about-us.jpg" alt="img">
-                </a>                
+                <div class="col-lg-6 col-md-6">
+                    <div class="mu-about-us-right">                            
+                    
+                    <img src="assets/img/about-us.jpg" alt="img" width="600" height="500">
+                    </a>                
+                    </div>
                 </div>
-              </div>
+                </div>
             </div>
-          </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+        </div>
+    </section>
   <!-- End about us -->
-
   <!-- Start about us counter -->
   <section id="mu-abtus-counter">
     <div class="container">
@@ -177,7 +157,7 @@
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single">
                   <span class="fa fa-book"></span>
-                  <h4 class="counter">568</h4>
+                  <h4 class="counter">100</h4>
                   <p>Subjects</p>
                 </div>
               </div>
@@ -186,7 +166,7 @@
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single">
                   <span class="fa fa-users"></span>
-                  <h4 class="counter">3500</h4>
+                  <h4 class="counter">300</h4>
                   <p>Students</p>
                 </div>
               </div>
@@ -587,87 +567,6 @@
   </section>
   <!-- End testimonial -->
 
-  <!-- Start from blog -->
-  <section id="mu-from-blog">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="mu-from-blog-area">
-            <!-- start title -->
-            <div class="mu-title">
-              <h2>From Blog</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum vitae quae vero ut natus. Dolore!</p>
-            </div>
-            <!-- end title -->  
-            <!-- start from blog content   -->
-            <div class="mu-from-blog-content">
-              <div class="row">
-                <div class="col-md-4 col-sm-4">
-                  <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-meta">
-                      <a href="#">By Admin</a>
-                      <a href="#">02 June 2016</a>
-                      <span><i class="fa fa-comments-o"></i>87</span>
-                    </div>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      <a class="mu-read-more-btn" href="#">Read More</a>
-                    </div>
-                  </article>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                  <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-2.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-meta">
-                      <a href="#">By Admin</a>
-                      <a href="#">02 June 2016</a>
-                      <span><i class="fa fa-comments-o"></i>87</span>
-                    </div>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      <a class="mu-read-more-btn" href="#">Read More</a>
-                    </div>
-                  </article>
-                </div>
-                <div class="col-md-4 col-sm-4">
-                  <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-3.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-meta">
-                      <a href="#">By Admin</a>
-                      <a href="#">02 June 2016</a>
-                      <span><i class="fa fa-comments-o"></i>87</span>
-                    </div>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      <a class="mu-read-more-btn" href="#">Read More</a>
-                    </div>
-                  </article>
-                </div>
-              </div>
-            </div>     
-            <!-- end from blog content   -->   
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End from blog -->
 
   <?php include "footer.html"?>  
   
