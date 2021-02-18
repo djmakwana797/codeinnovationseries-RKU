@@ -76,10 +76,10 @@
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
-       <div class="col-md-12">
+       <div class="col-md-16">
          <div class="mu-course-content-area">
             <div class="row">
-              <div class="col-md-9">
+              <div class="col-md-10">
                 <!-- start course content container -->
                 <div class="mu-course-container">
                   <div class="row">
@@ -147,63 +147,6 @@
                 </div>
                 <!-- end course content container -->
               </div>
-              <div class="col-md-3">
-                <!-- start sidebar -->
-                <aside class="mu-sidebar">
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Categories</h3>
-                    <ul class="mu-sidebar-catg">
-                      <li><a href="#">Web Design</a></li>
-                      <li><a href="">Web Development</a></li>
-                      <li><a href="">Math</a></li>
-                      <li><a href="">English</a></li>
-                    </ul>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Popular Course</h3>
-                    <div class="mu-sidebar-popular-courses">
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/ms.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Medical Science</a></h4>                      
-                          <span class="popular-course-price">$200.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/wdt.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Web Development</a></h4>                      
-                          <span class="popular-course-price">$250.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/hs.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Health & Sports</a></h4>                      
-                          <span class="popular-course-price">$90.00</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end single sidebar -->
-                </aside>
-                <!-- / end sidebar -->
-             </div>
            </div>
          </div>
        </div>

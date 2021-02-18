@@ -53,8 +53,7 @@
         <h4>Welcome To Webologic EDU</h4>
         <span></span>
         <h2>We Will Help You To Learn</h2>
-        <p></p>
-        <a href="#" class="mu-read-more-btn">Read More</a>
+        <p>You can find IT feild related courses here, Which can help you to start freelancing as well help you to go ahead in your CS/IT career.</p>
       </div>
     </div>
     <!-- Start single slider item -->
@@ -68,8 +67,7 @@
         <h4>For B.Tech Computer Engineering Students</h4>
         <span></span>
         <h2>You will find all basic courses here</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p>
-        <a href="#" class="mu-read-more-btn">Read More</a>
+        <p>Learn the latest skills Python, Web development, Data Structures and more.</p>
       </div>
     </div>
        
@@ -174,8 +172,8 @@
               <!-- Start counter item -->
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single">
-                  <span class="fa fa-flask"></span>
-                  <h4 class="counter">65</h4>
+                  <span class="fa fa-laptop"></span>
+                  <h4 class="counter">35</h4>
                   <p>Modern Lab</p>
                 </div>
               </div>
@@ -184,7 +182,7 @@
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single no-border">
                   <span class="fa fa-user-secret"></span>
-                  <h4 class="counter">250</h4>
+                  <h4 class="counter">30</h4>
                   <p>Teachers</p>
                 </div>
               </div>
@@ -197,79 +195,6 @@
   </section>
   <!-- End about us counter -->
 
-  <!-- Start features section -->
-  <section id="mu-features">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 col-md-12">
-          <div class="mu-features-area">
-            <!-- Start Title -->
-            <div class="mu-title">
-              <h2>Our Features</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio ipsa ea maxime mollitia, vitae voluptates, quod at, saepe reprehenderit totam aliquam architecto fugiat sunt animi!</p>
-            </div>
-            <!-- End Title -->
-            <!-- Start features content -->
-            <div class="mu-features-content">
-              <div class="row">
-                <div class="col-lg-4 col-md-4  col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-book"></span>
-                    <h4>Professional Courses</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-users"></span>
-                    <h4>Expert Teachers</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-laptop"></span>
-                    <h4>Online Learning</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-microphone"></span>
-                    <h4>Audio Lessons</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-film"></span>
-                    <h4>Video Lessons</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                  <div class="mu-single-feature">
-                    <span class="fa fa-certificate"></span>
-                    <h4>Professional Certificate</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
-                    <a href="#">Read More</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- End features content -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End features section -->
-
   <!-- Start latest course section -->
   <section id="mu-latest-courses">
     <div class="container">
@@ -279,123 +204,69 @@
             <!-- Start Title -->
             <div class="mu-title">
               <h2>Latest Courses</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio ipsa ea maxime mollitia, vitae voluptates, quod at, saepe reprehenderit totam aliquam architecto fugiat sunt animi!</p>
+              <p>You can access a different types courses here, like Web designing, Python Data Structure, Information technology and Computer Science</p>
             </div>
             <!-- End Title -->
             <!-- Start latest course content -->
             <div id="mu-latest-course-slide" class="mu-latest-courses-content">
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Drawing</a>
-                      <span><i class="fa fa-clock-o"></i>90Days</span>
-                    </figcaption>
-                  </figure>
+                <figure class="mu-latest-course-img">
+                        <a href="cs-details.php"><img src="assets/img/courses/cs.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="cs-details.php">Computer Science</a>
+                          <span><i class="fa fa-clock-o"></i>90Days</span>
+                        </figcaption>
+                </figure>
                   <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
+                    <h4><a href="#">Computer Science is the study of computers and computational systems.</a></h4>
+                    <p>Although knowing how to program is essential to the study of computer science, it is only one element of the field. Computer scientists design and analyze algorithms to solve programs and study the performance of computer hardware and software.</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/2.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Engineering </a>
-                      <span><i class="fa fa-clock-o"></i>75Days</span>
-                    </figcaption>
-                  </figure>
-                  <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
-                  </div>
+                <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/courses/wd.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Web Design </a>
+                          <span><i class="fa fa-clock-o"></i>75Days</span>
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Web design refers to the design of websites that are displayed on the internet.</a></h4>
+                        <p>Web design is what creates the overall look and feel when you’re using a website. It’s the process of planning and building the elements of your website, from structure and layout to images, colors, fonts and graphics.</p>
+                      </div>
                 </div>
               </div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/3.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Academic</a>
-                      <span><i class="fa fa-clock-o"></i>45Days</span>
-                    </figcaption>
-                  </figure>
-                  <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
-                  </div>
+                <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/courses/py.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Python Data Structure</a>
+                          <span><i class="fa fa-clock-o"></i>90Days</span>
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Python has been used worldwide for different fields such as making websites, artificial intelligence and much more.</a></h4>
+                        <p>Organizing, managing and storing data is important as it enables easier access and efficient modifications. Data Structures allows you to organize your data in such a way that enables you to store collections of data, relate them and perform operations on them accordingly.</p>
+                      </div>
                 </div>
               </div>
               <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Drawing</a>
-                      <span><i class="fa fa-clock-o"></i>90Days</span>
-                    </figcaption>
-                  </figure>
-                  <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-xs-12">
-                <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/2.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Engineering </a>
-                      <span><i class="fa fa-clock-o"></i>75Days</span>
-                    </figcaption>
-                  </figure>
-                  <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-xs-12">
-                <div class="mu-latest-course-single">
-                  <figure class="mu-latest-course-img">
-                    <a href="#"><img src="assets/img/courses/3.jpg" alt="img"></a>
-                    <figcaption class="mu-latest-course-imgcaption">
-                      <a href="#">Academic</a>
-                      <span><i class="fa fa-clock-o"></i>45Days</span>
-                    </figcaption>
-                  </figure>
-                  <div class="mu-latest-course-single-content">
-                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                    <div class="mu-latest-course-single-contbottom">
-                      <a class="mu-course-details" href="#">Details</a>
-                      <span class="mu-course-price" href="#">$165.00</span>
-                    </div>
-                  </div>
+                <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/courses/it.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Information Technology </a>
+                          <span><i class="fa fa-clock-o"></i>75Days</span>
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Information technology (IT) refers to everything that businesses use computers for.</a></h4>
+                        <p>The purpose of an Information Technology System is to help people carry out their work and achieve their objectives within an organization. Productivity and efficiency improvements using technology are the key focus.</p>
+                      </div>
                 </div>
               </div>
             </div>
@@ -406,166 +277,6 @@
     </div>
   </section>
   <!-- End latest course section -->
-
-  <!-- Start our teacher -->
-  <section id="mu-our-teacher">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="mu-our-teacher-area">
-            <!-- begain title -->
-            <div class="mu-title">
-              <h2>Our Teachers</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, repudiandae, suscipit repellat minus molestiae ea.</p>
-            </div>
-            <!-- end title -->
-            <!-- begain our teacher content -->
-            <div class="mu-our-teacher-content">
-              <div class="row">
-                <div class="col-lg-3 col-md-3  col-sm-6">
-                  <div class="mu-our-teacher-single">
-                    <figure class="mu-our-teacher-img">
-                      <img src="assets/img/teachers/teacher-01.png" alt="teacher img">
-                      <div class="mu-our-teacher-social">
-                        <a href="#"><span class="fa fa-facebook"></span></a>
-                        <a href="#"><span class="fa fa-twitter"></span></a>
-                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                      </div>
-                    </figure>                    
-                    <div class="mu-ourteacher-single-content">
-                      <h4>Brian Dean</h4>
-                      <span>Math Teacher</span>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique quod pariatur recusandae odio dignissimos. Eligendi.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                  <div class="mu-our-teacher-single">
-                    <figure class="mu-our-teacher-img">
-                      <img src="assets/img/teachers/teacher-02.png" alt="teacher img">
-                      <div class="mu-our-teacher-social">
-                        <a href="#"><span class="fa fa-facebook"></span></a>
-                        <a href="#"><span class="fa fa-twitter"></span></a>
-                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                      </div>
-                    </figure>                    
-                    <div class="mu-ourteacher-single-content">
-                      <h4>James Hein</h4>
-                      <span>Physics Teacher</span>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique quod pariatur recusandae odio dignissimos. Eligendi.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                  <div class="mu-our-teacher-single">
-                    <figure class="mu-our-teacher-img">
-                      <img src="assets/img/teachers/teacher-03.png" alt="teacher img">
-                      <div class="mu-our-teacher-social">
-                        <a href="#"><span class="fa fa-facebook"></span></a>
-                        <a href="#"><span class="fa fa-twitter"></span></a>
-                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                      </div>
-                    </figure>                    
-                    <div class="mu-ourteacher-single-content">
-                      <h4>Rebeca Michel</h4>
-                      <span>English Teacher</span>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique quod pariatur recusandae odio dignissimos. Eligendi.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                  <div class="mu-our-teacher-single">
-                    <figure class="mu-our-teacher-img">
-                      <img src="assets/img/teachers/teacher-04.png" alt="teacher img">
-                      <div class="mu-our-teacher-social">
-                        <a href="#"><span class="fa fa-facebook"></span></a>
-                        <a href="#"><span class="fa fa-twitter"></span></a>
-                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                      </div>
-                    </figure>                    
-                    <div class="mu-ourteacher-single-content">
-                      <h4>John Doe</h4>
-                      <span>Biology Teacher</span>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique quod pariatur recusandae odio dignissimos. Eligendi.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> 
-            <!-- End our teacher content -->           
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End our teacher -->
-
-  <!-- Start testimonial -->
-  <section id="mu-testimonial">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="mu-testimonial-area">
-            <div id="mu-testimonial-slide" class="mu-testimonial-content">
-              <!-- start testimonial single item -->
-              <div class="mu-testimonial-item">
-                <div class="mu-testimonial-quote">
-                  <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>
-                  </blockquote>
-                </div>
-                <div class="mu-testimonial-img">
-                  <img src="assets/img/testimonial-1.png" alt="img">
-                </div>
-                <div class="mu-testimonial-info">
-                  <h4>John Doe</h4>
-                  <span>Happy Student</span>
-                </div>
-              </div>
-              <!-- end testimonial single item -->
-              <!-- start testimonial single item -->
-              <div class="mu-testimonial-item">
-                <div class="mu-testimonial-quote">
-                  <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>
-                  </blockquote>
-                </div>
-                <div class="mu-testimonial-img">
-                  <img src="assets/img/testimonial-3.png" alt="img">
-                </div>
-                <div class="mu-testimonial-info">
-                  <h4>Rebaca Michel</h4>
-                  <span>Happy Parent</span>
-                </div>
-              </div>
-              <!-- end testimonial single item -->
-              <!-- start testimonial single item -->
-              <div class="mu-testimonial-item">
-                <div class="mu-testimonial-quote">
-                  <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>
-                  </blockquote>
-                </div>
-                <div class="mu-testimonial-img">
-                  <img src="assets/img/testimonial-2.png" alt="img">
-                </div>
-                <div class="mu-testimonial-info">
-                  <h4>Stev Smith</h4>
-                  <span>Happy Student</span>
-                </div>
-              </div>
-              <!-- end testimonial single item -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End testimonial -->
 
 
   <?php include "footer.html"?>  
