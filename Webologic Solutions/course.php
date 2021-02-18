@@ -86,9 +86,9 @@
                     <div class="col-md-6 col-sm-6">
                     <div class="mu-latest-course-single">
                       <figure class="mu-latest-course-img">
-                        <a href="#"><img src="assets/img/courses/cs.jpg" alt="img"></a>
+                        <a href="cs-details.php"><img src="assets/img/courses/cs.jpg" alt="img"></a>
                         <figcaption class="mu-latest-course-imgcaption">
-                          <a href="#">Computer Science</a>
+                          <a href="cs-details.php">Computer Science</a>
                           <span><i class="fa fa-clock-o"></i>90Days</span>
                         </figcaption>
                       </figure>
@@ -157,8 +157,6 @@
                       <li><a href="#">Web Design</a></li>
                       <li><a href="">Web Development</a></li>
                       <li><a href="">Math</a></li>
-                      <li><a href="">Physics</a></li>
-                      <li><a href="">Camestry</a></li>
                       <li><a href="">English</a></li>
                     </ul>
                   </div>

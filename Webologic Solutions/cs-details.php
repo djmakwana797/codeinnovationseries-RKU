@@ -39,7 +39,7 @@
   </head>
   
   <?php include "header.html" ?>
-
+<body>
  <!-- Page breadcrumb -->
  <section id="mu-page-breadcrumb">
    <div class="container">
@@ -63,7 +63,7 @@
        <div class="col-md-12">
          <div class="mu-course-content-area">
             <div class="row">
-              <div class="col-md-9">
+              <div class="col-md-12">
                 <!-- start course content container -->
                 <div class="mu-course-container mu-course-details">
                   <div class="row">
@@ -369,154 +369,7 @@
                   </div>
                 </div>
                 <!-- end course content container -->
-                <!-- start related course item -->
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="mu-related-item">
-                  <h3>Related Courses</h3>
-                  <div class="mu-related-item-area">
-                    <div id="mu-related-item-slide">
-                      <div class="col-md-6">
-                        <div class="mu-latest-course-single">
-                          <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
-                            <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
-                            </figcaption>
-                          </figure>
-                          <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                            <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-6">
-                        <div class="mu-latest-course-single">
-                          <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/2.jpg"></a>
-                            <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
-                            </figcaption>
-                          </figure>
-                          <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                            <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-6">
-                        <div class="mu-latest-course-single">
-                          <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/3.jpg"></a>
-                            <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
-                            </figcaption>
-                          </figure>
-                          <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                            <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-6">
-                        <div class="mu-latest-course-single">
-                          <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
-                            <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
-                            </figcaption>
-                          </figure>
-                          <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                            <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                  </div>
-                </div>
-                <!-- end start related course item -->
               </div>
-              <div class="col-md-3">
-                <!-- start sidebar -->
-                <aside class="mu-sidebar">
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Categories</h3>
-                    <ul class="mu-sidebar-catg">
-                      <li><a href="#">Web Design</a></li>
-                      <li><a href="">Web Development</a></li>
-                      <li><a href="">Math</a></li>
-                      <li><a href="">Physics</a></li>
-                      <li><a href="">Camestry</a></li>
-                      <li><a href="">English</a></li>
-                    </ul>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Popular Course</h3>
-                    <div class="mu-sidebar-popular-courses">
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/ms.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Medical Science</a></h4>                      
-                          <span class="popular-course-price">$200.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/wdt.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Web Development</a></h4>                      
-                          <span class="popular-course-price">$250.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/hs.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Health & Sports</a></h4>                      
-                          <span class="popular-course-price">$90.00</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- end single sidebar -->
-                </aside>
-                <!-- / end sidebar -->
              </div>
            </div>
          </div>
