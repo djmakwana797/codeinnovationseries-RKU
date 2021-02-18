@@ -101,9 +101,9 @@
                   <div class="col-md-6 col-sm-6">
                     <div class="mu-latest-course-single">
                       <figure class="mu-latest-course-img">
-                        <a href="#"><img src="assets/img/courses/wd.jpg" alt="img"></a>
+                        <a href="wd-details.php"><img src="assets/img/courses/wd.jpg" alt="img"></a>
                         <figcaption class="mu-latest-course-imgcaption">
-                          <a href="#">Web Design </a>
+                          <a href="wd-details.php">Web Design </a>
                           <span><i class="fa fa-clock-o"></i>75Days</span>
                         </figcaption>
                       </figure>
@@ -116,9 +116,9 @@
                   <div class="col-md-6 col-sm-6">
                     <div class="mu-latest-course-single">
                       <figure class="mu-latest-course-img">
-                        <a href="#"><img src="assets/img/courses/py.jpg" alt="img"></a>
+                        <a href="pds-details.php"><img src="assets/img/courses/py.jpg" alt="img"></a>
                         <figcaption class="mu-latest-course-imgcaption">
-                          <a href="#">Python Data Structure</a>
+                          <a href="pds-details.php">Python Data Structure</a>
                           <span><i class="fa fa-clock-o"></i>90Days</span>
                         </figcaption>
                       </figure>
@@ -131,9 +131,9 @@
                   <div class="col-md-6 col-sm-6">
                     <div class="mu-latest-course-single">
                       <figure class="mu-latest-course-img">
-                        <a href="#"><img src="assets/img/courses/it.jpg" alt="img"></a>
+                        <a href="it-details.php"><img src="assets/img/courses/it.jpg" alt="img"></a>
                         <figcaption class="mu-latest-course-imgcaption">
-                          <a href="#">Information Technology </a>
+                          <a href="it-details.php">Information Technology </a>
                           <span><i class="fa fa-clock-o"></i>75Days</span>
                         </figcaption>
                       </figure>

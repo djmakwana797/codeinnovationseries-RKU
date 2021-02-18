@@ -182,7 +182,7 @@
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single no-border">
                   <span class="fa fa-user-secret"></span>
-                  <h4 class="counter">30</h4>
+                  <h4 class="counter">54</h4>
                   <p>Teachers</p>
                 </div>
               </div>
