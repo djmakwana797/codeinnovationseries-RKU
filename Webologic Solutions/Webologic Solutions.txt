@@ -1,0 +1,14 @@
+(1) A description of your project :
+	A learning system based on formalised teaching but with the help of electronic resources is known as E-learning.While teaching can be based in 
+     or out of the classrooms, the use of computers and the Internet forms the major component of E-learning.
+	
+	So based on E-learning, We have created this Webologic EDU website to provide usefull courses to the students those who are wishing to study 
+     different courses but not able to get proper resources. They can access courses according their interest. Currently we have included courses like Computer 
+     Science, Information Technology, Web Design and Python Data Structures in the website. Students can access it unlimited number of times.
+
+(2) The contents of your project directory :
+	Project directory contains assets, scss and required html and php files.
+	
+(3) Ways to host your project on the localhost :
+	Step 1 - Clone this project local in htdocs folder
+	Step 2 - Enter "http://localhost/codeinnovationseries-RKU/Webologic%20Solutions/Webologic%20EDU" as url to your favourite browser.
